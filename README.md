@@ -1,7 +1,7 @@
 # Student Expense Tracker
 
 ## Project Repository Link
-👉 https://github.com/USERNAME/sen-expense-tracker
+https://github.com/OCHAIR1/sen-expense-tracker
 
 ---
 
